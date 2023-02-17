@@ -231,7 +231,7 @@ zigbeeManufacturer:
     model: TS0203
     deviceProfileName: contact-battery-profile
   - id: "Sercomm Corp./Tripper"
-    deviceLabel: Sercomm Open/Closed Sensor
+    deviceLabel: Quirky Tripper
     manufacturer: Sercomm Corp.
     model: Tripper
     deviceProfileName: contact-battery-profile
